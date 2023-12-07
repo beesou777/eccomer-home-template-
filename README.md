@@ -1,4 +1,4 @@
-this simple website made by me was clone from a anon website 
-hope you will love it follow me for more 
-
-<h1> hello</h1>
+<center>
+<h1>this simple website made by me was clone from a anon website </h1>
+<h1>follow me for more</h1>
+</center>
